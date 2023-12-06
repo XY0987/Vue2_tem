@@ -2,8 +2,6 @@ import Vue from "vue";
 import App from "./App.vue";
 // 引入路由
 import VueRouter from "vue-router";
-// 引入less
-import less from "less";
 //引入element(常用:图标,按钮,表单,输入框,选择框,表格,分页,弹窗提示)
 import {
   MessageBox,
